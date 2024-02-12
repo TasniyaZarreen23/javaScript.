@@ -9,3 +9,6 @@ accuntCity = "goa"
 let accountState;//when we dont write any value it means it is undefine
 console.log(accountId);
 console.table([accountId,accountEmail,accountPassword,accuntCity,accountState])
+/* this is all about variables
+varibele name mustbe wriitten readiable ,understable
+ use camelcase like cityName*/
